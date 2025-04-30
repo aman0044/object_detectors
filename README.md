@@ -58,6 +58,8 @@ Before diving into training, it's essential to perform exploratory data analysis
 - **Dataset Overview**: The BDD dataset contains diverse driving scenes with various annotations, including object detection, drivable area segmentation, and lane detection. In our use_case we will only focus on Object detection task which mainly consists of 'truck', 'train', 'person', 'bus', 'car', 'rider', 'traffic sign', 'bike', 'traffic light', 'motor'.
 
 ### Steps to run EDA
+> Required files are zipped in data folder. Please unzip it : unzip ./data/val.zip ./data/
+
 You can check EDA at [./data_processing/EDA/EDA.ipynb](./data_processing/EDA/EDA.ipynb).  
 
 Otherwise, you can follow below steps to crete EDA from scratch.  
