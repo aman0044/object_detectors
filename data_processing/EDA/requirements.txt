@@ -1,0 +1,9 @@
+pandas
+pathlib
+joblib
+tqdm
+numpy
+seaborn
+loguru
+notebook
+opencv-python>=4.1.2

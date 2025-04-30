@@ -1,0 +1,8 @@
+train 0
+car 0
+bus 0
+truck 0
+rider 0
+bike 0
+motor 0
+train 0

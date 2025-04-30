@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+altair
+imagesize
+seaborn
+scikit-learn
+scikit-multilearn
+pycocotools
